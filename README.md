@@ -26,5 +26,5 @@ Advent of Code 2021
 - [ ] 21st
 - [ ] 22nd
 - [ ] 23rd
-- [ ] 'Amazing'
+- [ ] `Amazing`
 
