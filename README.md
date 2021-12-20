@@ -3,7 +3,7 @@ Advent of Code 2021
 
 ## TODO
 
-- [ ] 1st
+- [x] 1st
 - [ ] 2nd
 - [ ] 3rd
 - [ ] 4th
