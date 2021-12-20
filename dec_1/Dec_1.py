@@ -1,4 +1,4 @@
-data = open('C:\\Users\\emmaf\\PycharmProjects\\AOC21\\dec_1\\Dec_1_data', 'r').read().split('\n')
+data = open('dec_1\\Dec_1_data', 'r').read().split('\n')
 
 
 def count_increased():
