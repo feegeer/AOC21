@@ -4,8 +4,8 @@ Advent of Code 2021
 ## TODO
 
 - [x] 1st
-- [ ] 2nd
-- [ ] 3rd
+- [x] 2nd
+- [x] 3rd
 - [ ] 4th
 - [ ] 5th
 - [ ] 6th
